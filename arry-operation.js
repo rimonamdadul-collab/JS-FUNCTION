@@ -13,7 +13,7 @@ function sumOfNumbers1 (numbers){
     for (number of numbers) {
         sum = sum + number;
 
-    }
+    } 
         return sum;
     
 }
